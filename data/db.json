@@ -1,0 +1,39 @@
+{
+  "gym_logs": [
+    {
+      "id": 1,
+      "firstname": "Mary",
+      "lastname": "Smith"
+    },
+    {
+      "id": 2,
+      "firstname": "Dom",
+      "lastname": "Pedro"
+    },
+    {
+      "id": 3,
+      "firstname": "Jason",
+      "lastname": "Dela Cruz"
+    },
+    {
+      "id": 4,
+      "firstname": "Karl",
+      "lastname": "Kutsi"
+    },
+    {
+      "id": 5,
+      "firstname": "James",
+      "lastname": "Abalips"
+    },
+    {
+      "id": 6,
+      "firstname": "Angel",
+      "lastname": "LIpps"
+    },
+    {
+      "id": 7,
+      "firstname": "Mitchell",
+      "lastname": "Lopez"
+    }
+  ]
+}
